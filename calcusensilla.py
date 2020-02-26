@@ -1,5 +1,7 @@
 n1=float(input("ingrese el primer numero 1: "))
 n2=float(input("ingrese el segundo numero 2: "))
+#Esta es la parte de los cometarios
+
 suma = n1 + n2
 resta = n1 - n2
 multiplicacion = n1 * n2
