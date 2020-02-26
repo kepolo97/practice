@@ -6,6 +6,8 @@ suma = n1 + n2
 resta = n1 - n2
 multiplicacion = n1 * n2
 division = n1 / n2
+cuadrado = n1**2
+
 suma=str(suma)
 print("El resultado de la suma es: " + suma)
 resta=str(resta)
